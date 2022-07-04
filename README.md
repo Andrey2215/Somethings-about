@@ -1,4 +1,4 @@
 # Somethings-about
-
-Collection of information
-Коллекция информации
+____
+<span>Collection of information</span><br>
+<span>Сборник информации</span>
